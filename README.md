@@ -23,7 +23,7 @@ pip install -r requirements.txt
 PINECONE_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
-### Download the quantize model from the link provided in model folder and keep the model in the model directory:
+### Download the quanatize model from the link provided in model folder and keep the model in the model directory:
 
 ```ini
 

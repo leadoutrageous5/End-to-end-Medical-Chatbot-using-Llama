@@ -14,7 +14,7 @@ list_of_files = [
     'store_index.py',
     'static/.gitkeep',
     'templates/chat.html',
-    'test.py'
+    
 ]
 
 for filepath in list_of_files:
